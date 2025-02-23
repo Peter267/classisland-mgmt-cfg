@@ -1,2 +1,2 @@
-# classisland-mgmt-cfg
+# ClassIsland集控配置
 ClassIsland集控
